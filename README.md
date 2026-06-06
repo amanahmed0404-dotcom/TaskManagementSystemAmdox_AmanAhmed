@@ -1,8 +1,8 @@
-# Ayushi - Task Management System
+# Aman Ahmed - Task Management System
 
 ## Overview
 
-Ayushi is a Task Management System developed using Spring Boot, Spring Security, JWT Authentication, MySQL, Maven, and Cloudinary.
+It is a Task Management System developed using Spring Boot, Spring Security, JWT Authentication, MySQL, Maven, and Cloudinary.
 
 The project is divided into modules that handle authentication, authorization, issue management, sprint management, attachment management, and user profile management.
 
