@@ -1,0 +1,15 @@
+package com.ayushi.Enum;
+
+public enum Permission {
+	
+	ISSUE_VIEW, 
+	ISSUE_CREATE, 
+	ISSUE_EDIT, 
+	ISSUE_ASSIGN, 
+	ISSUE_DELETE, 
+	COMMENT_ADD, 
+	COMMENT_DELETE, 
+	USER_MANAGER, 
+	WORKFLOW_TRANSACTION
+
+}
